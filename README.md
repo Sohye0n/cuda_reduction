@@ -1,5 +1,5 @@
 # cuda_reduction
-optimizing cuda addition kernel
+optimizing cuda addition kernel </br>
 reduction을 이해하기 위해 7단계에 걸쳐 커널을 최적화해보았습니다.
 
 </br></br>
